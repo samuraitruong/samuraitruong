@@ -3,6 +3,14 @@
 
 ![samuraitruong's Stats](https://github-readme-stats.vercel.app/api?username=samuraitruong&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
+![samuraitruong's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraitruong&theme=radical&hide_border=true)
+
+![samuraitruong's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraitruong&theme=radical&hide_border=true)
+
+![samuraitruong's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuraitruong&theme=radical&hide_border=true)
+
+![samuraitruong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraitruong&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
